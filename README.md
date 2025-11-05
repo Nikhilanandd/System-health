@@ -66,9 +66,3 @@ chmod +x system-healthv2.sh
 ---
 
 
-```
-
----
-
-Would you like me to make a **short version including Phase 3 (gnuplot visualization)** next — matching this concise style?
-```
